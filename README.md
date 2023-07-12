@@ -4,7 +4,7 @@
 
 <h1 style="">Soy Alvaro</h1>
 <h3>- 🔭 I’m currently working on ...</h3>
-<a src="https://carrito-compras-b.netlify.app/">Carrito</a>
+<a href="https://carrito-compras-b.netlify.app/">Carrito</a>
 <!--
 **Alvaro-Antonii/Alvaro-Antonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
