@@ -2,7 +2,7 @@
 
 
 
-<h1 style="">Soy Alvaro estudiante de la Tecnicatura en Desarrollo de Software</h1>
+<h1 style="">Soy Alvaro estudiante de la Técnicatura en Desarrollo de Software</h1>
 <h3>- 🔭 Algunos trabajos ...</h3>
 <ul>
   <li><a href="https://carrito-compras-b.netlify.app/">Carrito de compras</a></li>
