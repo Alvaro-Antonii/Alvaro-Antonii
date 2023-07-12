@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-##hola
 
-<h1 style="">Soy Alvaro</h1>
+
+<h1 style="">Soy Alvaro estudiante de la Tecnicatura en Desarrollo de Software</h1>
 <h3>- 🔭 Algunos trabajos ...</h3>
-<a href="https://carrito-compras-b.netlify.app/">Carrito de compras</a>
-<a href="https://calm-faloodeh-3283a3.netlify.app">THAISCRIPT</a>
-<a href="https://seriesclick.netlify.app/">SeriesClick</a>
+<ul>
+  <li><a href="https://carrito-compras-b.netlify.app/">Carrito de compras</a></li>
+  <li><a href="https://calm-faloodeh-3283a3.netlify.app">THAISCRIPT</a></li>
+  <li><a href="https://seriesclick.netlify.app/">SeriesClick</a></li>
+</ul>
+
+
+
 
 
 <!--
