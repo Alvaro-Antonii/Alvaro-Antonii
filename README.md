@@ -3,8 +3,12 @@
 ##hola
 
 <h1 style="">Soy Alvaro</h1>
-<h3>- 🔭 I’m currently working on ...</h3>
-<a href="https://carrito-compras-b.netlify.app/">Carrito</a>
+<h3>- 🔭 Algunos trabajos ...</h3>
+<a href="https://carrito-compras-b.netlify.app/">Carrito de compras</a>
+<a href="https://calm-faloodeh-3283a3.netlify.app">THAISCRIPT</a>
+<a href="https://seriesclick.netlify.app/">SeriesClick</a>
+
+
 <!--
 **Alvaro-Antonii/Alvaro-Antonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
