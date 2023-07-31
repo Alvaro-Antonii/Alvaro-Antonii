@@ -8,6 +8,7 @@
   <li><a href="https://carrito-compras-b.netlify.app/">Carrito de compras</a></li>
   <li><a href="https://calm-faloodeh-3283a3.netlify.app">THAISCRIPT</a></li>
   <li><a href="https://seriesclick.netlify.app/">SeriesClick</a></li>
+  <li><a href="https://carrito-api-react.netlify.app/">Carrito con React</a></li>
   <li><a href="https://primer-app-vue-alvaro.netlify.app/">App contador Vue</a></li>
   <li><a href="https://conversorfiguras.netlify.app/">Conversor Figuras</a></li>
   
