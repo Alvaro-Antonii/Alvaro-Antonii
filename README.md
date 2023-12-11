@@ -8,6 +8,7 @@
   
   <li><a href="https://porfolio-alvaro-sanchez.netlify.app">Porfolio</a></li>
   <li><a href="https://carrito-compras-b.netlify.app/">Carrito de compras</a></li>
+  <li><a href="https://bloggerwebdaniela.netlify.app/">Blogger</a></li>
   <li><a href="https://lavadero-modelado-pag.netlify.app/">Lavadero</a></li>
   <li><a href="https://calm-faloodeh-3283a3.netlify.app">THAISCRIPT</a></li>
   <li><a href="https://turismo-page.netlify.app/">Turismo</a></li>
